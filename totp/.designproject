@@ -1,0 +1,11 @@
+{
+  "description" : "",
+  "groupId" : "y9dx18706.testoco_gp_gh1.totp",
+  "locale" : "en_US",
+  "properties" : {
+    "refactoringEnabled" : false,
+    "indexingEnabled" : false,
+    "tags" : [ ]
+  },
+  "extraProperties" : { }
+}
